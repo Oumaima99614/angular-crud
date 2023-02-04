@@ -1,0 +1,23 @@
+{
+    "utilisateurs":[
+        {    "id":1,
+            "nom":"laassiri",
+            "prenom":"oumaima",
+            "age":"23 "
+    
+        },
+        {
+            "id":2,
+            "nom":"madani",
+            "prenom":"mohamed",
+            "age":"40"
+            
+        },
+        {   "id":3,
+            "nom":"sabiri ",
+            "prenom":"salma",
+            "age":"18"
+            
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+.form-group
+{
+width: 50%;
+margin-left: 25%;
+
+}
+h1{
+    color: black;
+    text-shadow: 2px 2px goldenrod;
+    font-size:3rem;
+    text-align: center;
+    padding-top: 2rem;
+
+}
